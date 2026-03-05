@@ -1,0 +1,6 @@
+Create an index.html file with a Student Profile Card that includes:
+   a name=Krishma Pawan,stylish font, stream=information system,stylish font and color short bio, and a profile image placeholder.
+   Add rounded corners, box shadow, more  dynamic changing gradient background,background color sky blue,waving shine slowly  and a nice font from Google Fonts.Create    
+   an index.html file with a Student Profile Card that includes:
+   a name, stream, short bio, and a profile image placeholder(avatar).
+   Add rounded corners, box shadow, more dynamic changing gradient background(need maching colors with out side card), and a nice font from Google Fonts,glowing around the box  add profile(color highlight), exam results bottons. 
